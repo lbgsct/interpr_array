@@ -1,0 +1,14 @@
+Load A in.txt
+Load B in.txt
+Remove A 2 7
+Rand B 10 1 8
+Concat A B
+Copy A 4 10 B
+Shuffle A
+Stats A
+Print A 3
+Print A 4 16
+Print A all
+Sort A +
+Save B out.txt
+Save A out1.txt
